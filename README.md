@@ -15,8 +15,11 @@
 🌐 Full Stack Intern with experience in Java.
 💻 Software Trainee specializing in interactive applications.
 - 🌟 My Tech Stack:
-- Frontend: HTML, CSS, JavaScript, React,
-- Backend: Spring Boot, MySQL,Hibernate,Spring Security,Java
+- Languages: Java, SQL, JavaScript
+- Frameworks: Spring Boot, Hibernate
+- Tools & Platforms: Git, Docker, Maven
+- Databases: MySQL
+- Cloud: AWS
 - Tools: Git, VS Code, Postman API, STS, Eclipse.
 ## Featured Projects
 Here are some of the projects I've worked on:
