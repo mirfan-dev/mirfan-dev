@@ -28,7 +28,7 @@ Here are some of the projects I've worked on:
 
 
 <a href="https://www.github.com/Md-Irfan123" target="_blank" rel="noreferrer"><img
-src="https://img.shields.io/github/followers/itzmiftah?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a>
+src="https://img.shields.io/github/followers/Md-Irfan123?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Md-Irfan123&label=Profile%20views&color=0e75b6&style=flat" alt="Md-Irfan123" /> </p>
 
 
@@ -49,15 +49,15 @@ src="https://img.shields.io/github/followers/itzmiftah?logo=github&style=for-the
 
 # Badges 
 
-[![An image of @itzmiftah's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/itzmiftah)](https://holopin.io/@itzmiftah)
+[![An image of @Md-Irfan123's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/Md-Irfan123)](https://holopin.io/@Md-Irfan123)
 
 <b>My GitHub Stats</b>
 
-<a href="http://www.github.com/itzmiftah"><img src="https://github-readme-stats.vercel.app/api?username=itzmiftah&show_icons=true&hide=&count_private=true&title_color=22c55e&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="itzmiftah's GitHub stats" /></a>
+<a href="http://www.github.com/Md-Irfan123"><img src="https://github-readme-stats.vercel.app/api?username=Md-Irfan123&show_icons=true&hide=&count_private=true&title_color=22c55e&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="Md-Irfan123's GitHub stats" /></a>
 
-<a href="http://www.github.com/itzmiftah"><img src="https://github-readme-streak-stats.herokuapp.com/?user=itzmiftah&stroke=ffffff&background=1c1917&ring=22c55e&fire=22c55e&currStreakNum=ffffff&currStreakLabel=22c55e&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
+<a href="http://www.github.com/Md-Irfan123"><img src="https://github-readme-streak-stats.herokuapp.com/?user=Md-Irfan123&stroke=ffffff&background=1c1917&ring=22c55e&fire=22c55e&currStreakNum=ffffff&currStreakLabel=22c55e&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
 
-<a href="http://www.github.com/itzmiftah"><img src="https://github-readme-activity-graph.cyclic.app/graph?username=itzmiftah&bg_color=1c1917&color=ffffff&line=0891b2&point=ffffff&area_color=1c1917&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a>
+<a href="http://www.github.com/Md-Irfan123"><img src="https://github-readme-activity-graph.cyclic.app/graph?username=Md-Irfan123&bg_color=1c1917&color=ffffff&line=0891b2&point=ffffff&area_color=1c1917&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a>
 
 <a href="https://github.com/Md-Irfan123" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Md-Irfan123&langs_count=10&title_color=22c55e&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
 
