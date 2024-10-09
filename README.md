@@ -1,6 +1,6 @@
 # Hello, I'm Md Irfan! 👋
 <h4>A Full-Stack developer | Java Developer </h4>
- <img src="https://readme-typing-svg.herokuapp.com?lines=MERN+Stack+Developer;&center=true&width=400&height=50"></a>
+ <img src="https://readme-typing-svg.herokuapp.com?lines=JAVA+Developer;&center=true&width=400&height=50"></a>
 
  - 🔭 I’m currently working on a Java JWT Project
 - 👯 I’m making the world better by PRs 
@@ -11,29 +11,25 @@
  I'm a passionate software developer with experience in web development and a strong foundation in computer science. Welcome to my GitHub profile, where I showcase my projects, contributions, and a journey into the world of coding.
 
 ## About Me
-🎓 Bachelor's degree in Computer Science and Engineering with a CGPA of 8.1.
-🌐 Web Development Intern with experience in UI/UX design.
+🎓 Bachelor's degree in Computer Science and Engineering with a CGPA of 7.52.
+🌐 Full Stack Intern with experience in Java.
 💻 Software Trainee specializing in interactive applications.
 - 🌟 My Tech Stack:
 - Frontend: HTML, CSS, JavaScript, React,
-- Backend: Node.js, Express, MongoDB, MySQL,
-- Tools: Git, VS Code, Postman.
+- Backend: Spring Boot, MySQL,Hibernate,Spring Security,Java
+- Tools: Git, VS Code, Postman API, STS, Eclipse.
 ## Featured Projects
 Here are some of the projects I've worked on:
 
-- [TextUtils](https://textutils-mif.vercel.app/): Technologies: React , HTML , CSS , JS.
-- [TodoList](https://todo-list-miftah.vercel.app/): Technologies: React , HTML , CSS , JS.
-- [Portfolio](https://miftahportfolio.vercel.app/): Technologies: React , HTML , CSS , JS.
-- [Instagram-Clone](/): Technologies:Node.js, Express, MongoDB, Ejs.
-- [Pinterest-Clone](https://pinterest-clone-uyqo.onrender.com/): Technologies:Node.js, Express, MongoDB, Ejs.
-- [AirBnb-Clone](/): Technologies:Node.js, Express, MongoDB, Ejs.
+- [User Manager System](https://textutils-mif.vercel.app/): Technologies: React , HTML , CSS , JS, Spring Boot, Spring Security,JWT.
 
 
 
 
-<a href="https://www.github.com/itzmiftah" target="_blank" rel="noreferrer"><img
+
+<a href="https://www.github.com/Md-Irfan123" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/github/followers/itzmiftah?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=itzmiftah&label=Profile%20views&color=0e75b6&style=flat" alt="itzmiftah" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=Md-Irfan123&label=Profile%20views&color=0e75b6&style=flat" alt="Md-Irfan123" /> </p>
 
 
 <h3 align="left">Languages:</h3>
