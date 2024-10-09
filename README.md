@@ -21,7 +21,7 @@
 - Databases: MySQL
 - Cloud: AWS
 - Tools: Git, VS Code, Postman API, STS, Eclipse.
-## Featured Projects
+## Featured Projects    
 Here are some of the projects I've worked on:
 
 - [User Manager System](https://textutils-mif.vercel.app/): Technologies: React , HTML , CSS , JS, Spring Boot, Spring Security,JWT.
@@ -30,9 +30,9 @@ Here are some of the projects I've worked on:
 
 
 
-<a href="https://www.github.com/Md-Irfan123" target="_blank" rel="noreferrer"><img
-src="https://img.shields.io/github/followers/Md-Irfan123?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=Md-Irfan123&label=Profile%20views&color=0e75b6&style=flat" alt="Md-Irfan123" /> </p>
+<a href="https://www.github.com/mirfan-dev" target="_blank" rel="noreferrer"><img
+src="https://img.shields.io/github/followers/mirfan-dev?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=mirfan-dev&label=Profile%20views&color=0e75b6&style=flat" alt="mirfan-dev" /> </p>
 
 
 <h3 align="left">Languages:</h3>
@@ -52,17 +52,17 @@ src="https://img.shields.io/github/followers/Md-Irfan123?logo=github&style=for-t
 
 # Badges 
 
-[![An image of @Md-Irfan123's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/Md-Irfan123)](https://holopin.io/@Md-Irfan123)
+[![An image of @mirfan-dev's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/mirfan-dev)](https://holopin.io/@mirfan-dev)
 
 <b>My GitHub Stats</b>
 
-<a href="http://www.github.com/Md-Irfan123"><img src="https://github-readme-stats.vercel.app/api?username=Md-Irfan123&show_icons=true&hide=&count_private=true&title_color=22c55e&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="Md-Irfan123's GitHub stats" /></a>
+<a href="http://www.github.com/mirfan-dev"><img src="https://github-readme-stats.vercel.app/api?username=mirfan-dev&show_icons=true&hide=&count_private=true&title_color=22c55e&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="mirfan-dev's GitHub stats" /></a>
 
-<a href="http://www.github.com/Md-Irfan123"><img src="https://github-readme-streak-stats.herokuapp.com/?user=Md-Irfan123&stroke=ffffff&background=1c1917&ring=22c55e&fire=22c55e&currStreakNum=ffffff&currStreakLabel=22c55e&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
+<a href="http://www.github.com/mirfan-dev"><img src="https://github-readme-streak-stats.herokuapp.com/?user=mirfan-dev&stroke=ffffff&background=1c1917&ring=22c55e&fire=22c55e&currStreakNum=ffffff&currStreakLabel=22c55e&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
 
-<a href="http://www.github.com/Md-Irfan123"><img src="https://github-readme-activity-graph.cyclic.app/graph?username=Md-Irfan123&bg_color=1c1917&color=ffffff&line=0891b2&point=ffffff&area_color=1c1917&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a>
+<a href="http://www.github.com/mirfan-dev"><img src="https://github-readme-activity-graph.cyclic.app/graph?username=mirfan-dev&bg_color=1c1917&color=ffffff&line=0891b2&point=ffffff&area_color=1c1917&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a>
 
-<a href="https://github.com/Md-Irfan123" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Md-Irfan123&langs_count=10&title_color=22c55e&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
+<a href="https://github.com/mirfan-dev" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mirfan-dev&langs_count=10&title_color=22c55e&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
 
 
 
